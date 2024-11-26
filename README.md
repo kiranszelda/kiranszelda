@@ -1,1 +1,2 @@
-Learing python and r for fun
+# Learning JS and C
+### I also do some linux stuff
